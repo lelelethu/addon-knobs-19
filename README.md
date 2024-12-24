@@ -160,7 +160,7 @@ export const button = () => ({
   },
 });
 ```
-
+Update All library for react 19
 ## Categorization
 
 Categorize your Knobs by assigning them a `groupId`. When a `groupId` exists, tabs will appear in the Knobs storybook panel to filter between the groups. Knobs without a `groupId` are automatically categorized into the `ALL` group.
